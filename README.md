@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @user47298729
-- 👀 I’m interested in WebDevelpoment
-- 🌱 I’m currently learning JavaScript
-- I'm new in programming and not an english native speaker
+
